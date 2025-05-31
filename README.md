@@ -1,4 +1,4 @@
-# finite_element_method
+# Finite_Element_Method
 
 These Python files were written for a finite element methods class. Files that aren't included because I wasn't the only contributor include: 
 - Solving for the 1D Galerkin method, 
